@@ -4,31 +4,31 @@
       "id": 1,
       "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam id ab alias accusantium nisi quaerat aliquam dolor sed, nobis quas hic blanditiis accusamus cum voluptate vero quis magni dolores odio tempora sequi iste voluptas facere ullam! Fuga perferendis culpa facilis, corporis recusandae excepturi magnam soluta nesciunt consectetur ipsum iure! Mollitia.",
       "title": "React",
-      "Price": 69
+      "price": 69
     },
     {
       "id": 2,
       "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam id ab alias accusantium nisi quaerat aliquam dolor sed, nobis quas hic blanditiis accusamus cum voluptate vero quis magni dolores odio tempora sequi iste voluptas facere ullam! Fuga perferendis culpa facilis, corporis recusandae excepturi magnam soluta nesciunt consectetur ipsum iure! Mollitia.",
       "title": "Angular",
-      "Price": 69
+      "price": 69
     },
     {
       "id": 3,
       "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam id ab alias accusantium nisi quaerat aliquam dolor sed, nobis quas hic blanditiis accusamus cum voluptate vero quis magni dolores odio tempora sequi iste voluptas facere ullam! Fuga perferendis culpa facilis, corporis recusandae excepturi magnam soluta nesciunt consectetur ipsum iure! Mollitia.",
       "title": "Bootstrap",
-      "Price": 69
+      "price": 69
     },
     {
       "id": 4,
       "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam id ab alias accusantium nisi quaerat aliquam dolor sed, nobis quas hic blanditiis accusamus cum voluptate vero quis magni dolores odio tempora sequi iste voluptas facere ullam! Fuga perferendis culpa facilis, corporis recusandae excepturi magnam soluta nesciunt consectetur ipsum iure! Mollitia.",
       "title": "Javascript",
-      "Price": 69
+      "price": 69
     },
     {
       "id": 5,
       "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam id ab alias accusantium nisi quaerat aliquam dolor sed, nobis quas hic blanditiis accusamus cum voluptate vero quis magni dolores odio tempora sequi iste voluptas facere ullam! Fuga perferendis culpa facilis, corporis recusandae excepturi magnam soluta nesciunt consectetur ipsum iure! Mollitia.",
       "title": "Html Css ",
-      "Price": 69
+      "price": 69
     }
   ]
 }
